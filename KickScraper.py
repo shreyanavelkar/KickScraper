@@ -1,7 +1,7 @@
 from selenium import webdriver
 import pandas as pd
 import time
-from ScrapContents import getDetails
+import getDetails
 
 # Base file USTechKick
 # Filter the data to get required details
